@@ -9,7 +9,7 @@
 <h3 align="center">B.sc Graduate | Data Analytics | SQL | Python | Power BI | Tableau | Turning Data into Insights</h3>
 
 <p align="center">
-🎓 BCA Graduate &nbsp;|&nbsp; 📊 Skilled in SQL, Excel, Power BI & Tableau &nbsp;|&nbsp; Currently pursuing Advanced Data Science & AI/ML Certification
+🎓 BSC Graduate &nbsp;|&nbsp; 📊 Skilled in SQL, Excel, Power BI & Tableau &nbsp;|&nbsp; Currently pursuing Advanced Data Science & AI/ML Certification
 </p>
 
 ---
