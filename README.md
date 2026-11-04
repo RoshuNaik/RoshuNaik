@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="./banner.png"
-       alt="Roshan Jadhav - Data Analyst"
-       width="100%" />
+  <img src="https://raw.githubusercontent.com/RoshuNaik/RoshuNaik/main/bannar.png" width="100%" alt="Roshan Jadhav Banner">
 </p>
 
 <h1 align="center">Hi, I'm Roshan 👋</h1>
