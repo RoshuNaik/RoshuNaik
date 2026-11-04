@@ -1,4 +1,6 @@
-![Uploading banner.png…]()
+<p align="center">
+  <img src="banner.png" alt="Roshan Jadhav - Data Analyst" width="100%">
+</p>
 
 
 <h1 align="center">Hi, I'm Roshan 👋</h1>
@@ -16,8 +18,8 @@
 - 🔭 I'm currently building end-to-end data projects spanning **Business Intelligence** and **Machine Learning**
 - 🌱 Deepening my skills in **Python, Machine Learning, and Statistics** through my upGrad certification
 - 💡 I enjoy turning raw, messy data into dashboards and models that drive real decisions
-- 📫 Reach me at: [your-email@gmail.com](roshunaik10@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/roshanjadhav10/)
+- 📫 Reach me at: [roshunaik10@gmail.com](mailto:roshunaik10@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/roshanjadhav10](https://www.linkedin.com/in/roshanjadhav10/)
 
 ---
 
