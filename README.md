@@ -1,4 +1,4 @@
-## welcome to my profile, I am ROSHAN 👋
+<h1 align="center">Hi, I'm YOUR NAME 👋</h1> <h3 align="center">BCA Graduate | Data Analytics | SQL | Python | Power BI | Tableau | Turning Data into Insights</h3> <p align="center"> 🎓 BCA Graduate &nbsp;|&nbsp; 📊 Skilled in SQL, Excel, Power BI & Tableau &nbsp;|&nbsp; Currently pursuing Advanced Data Science & AI/ML Certification </p>
 ![Banner](bannar.png)
 <!--
 **RoshuNaik/RoshuNaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
