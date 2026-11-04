@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="banner.png" alt="Roshan Jadhav - Data Analyst" width="100%">
-</p>
-![Uploading ROSHAN JADHAV  .png…]()
+![Uploading banner.png…]()
+
 
 <h1 align="center">Hi, I'm Roshan 👋</h1>
 
