@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="banner.png" alt="Roshan Jadhav - Data Analyst" width="100%">
+  <img src="./banner.png"
+       alt="Roshan Jadhav - Data Analyst"
+       width="100%" />
 </p>
-
 
 <h1 align="center">Hi, I'm Roshan 👋</h1>
 
